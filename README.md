@@ -1,22 +1,15 @@
 # About Me
-Currently pursuing my Master's degree in Information Security from National Institute of Technology, Karnataka. Let me help you to Show some of my Work till date.Check Out My [resume](https://github.com/dblackmorris/dblackmorris.github.io/blob/master/resume1.pdf).
+Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Check Out My [resume](https://github.com/dblackmorris/dblackmorris.github.io/blob/master/resume1.pdf).
 <br>
 <br>
 <br>
-
-## Ongoing Project
-<br>
->Depth Analysis of Windows IOT and Exploitation Zigbee. Details will be updated as the project progresses.
-<br>
-<br>
-
 
 ## Completed Projects
 <br>
 
-### w4vf(Web Application Vulnerability Finder)
+### Exhaustive evaluation of TCP Westwood and Westwood+ in Multirate 802.11
 
->It is an automated tool that scans the web applications to look for known vulnerabilities pattern such as XSS, SQLI and LFI etc.
+>Evaluation of the performance of TCP Westwood and Westwood+ was done in the presence of Rate Adaptation Algorithms such as ARF, AARF, ONOE and MINSTREL. The tool used was ns-3 and coding was done in C++.
 
 
 <br>
