@@ -1,9 +1,13 @@
 # About Me
-Currently pursuing my Master's degree in Computer Science and Engineering from National Institute of Technology, Karnataka. Check Out My [resume](https://github.com/arjun10792/arjun10792.github.io/blob/master/arjun_resume.pdf).
+Post graduate in Computer Science and Engineering from National Institute of Technology, Karnataka. Check Out My [resume](https://github.com/arjun10792/arjun10792.github.io/blob/master/arjun_resume.pdf).
 <br>
 <br>
 
 ## Completed Projects
+<br>
+
+### Probabilistic method based document retrieval with dynamic inverted index maintenance
+> To improve the search performance of real time document retrieval with dynamic inverted index, using probabilistic method. Deep learning method used is Doc2Vec. Storage is SAN based
 <br>
 
 ### Exhaustive evaluation of TCP Westwood and Westwood+ in Multirate 802.11
