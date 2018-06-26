@@ -1,5 +1,5 @@
 # About Me
-Post graduate in Computer Science and Engineering from National Institute of Technology, Karnataka. Check Out My [resume](https://github.com/arjun10792/arjun10792.github.io/blob/master/arjun_resume.pdf).
+Post graduate in Computer Science  and Engineering from National Institute of Technology, Karnataka. Check Out My [resume](https://github.com/arjun10792/arjun10792.github.io/blob/master/arjun_resume.pdf).
 <br>
 <br>
 
